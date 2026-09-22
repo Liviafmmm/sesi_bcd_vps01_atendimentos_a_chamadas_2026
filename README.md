@@ -91,18 +91,13 @@ Um chamado pode ter vários registros no histórico.
 
 Um usuário pode ter vários registros no histórico.
 
-Arquivos CSV
 
-usuario.csv
-
-tecnico.csv
-
-categoria.csv
-
-chamado.csv
-
-historico.csv
-
+## Dados de teste em CSV
+- [cliente.csv](./cliente.csv)
+- [telefone.csv](./telefone.csv)
+- [produto.csv](./produto.csv)
+- [pedido.csv](./pedido.csv)
+- 
 Todos possuem pelo menos 3 registros.
 
 
