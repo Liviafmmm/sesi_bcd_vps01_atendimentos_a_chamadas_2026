@@ -77,3 +77,66 @@ Historico
 | prioridade      | enum         | -     | Prioridade                  |
 | id_usuario      | int          | FK    | Usuário que abriu o chamado |
 | id_categoria    | in_          |       |                             |
+
+
+Relacionamentos
+
+Um usuário pode abrir vários chamados.
+
+Um técnico pode atender vários chamados.
+
+Uma categoria pode ter vários chamados.
+
+Um chamado pode ter vários registros no histórico.
+
+Um usuário pode ter vários registros no histórico.
+
+Arquivos CSV
+
+usuario.csv
+
+tecnico.csv
+
+categoria.csv
+
+chamado.csv
+
+historico.csv
+
+Todos possuem pelo menos 3 registros.
+
+
+DDL
+O arquivo ddl.sql possui os comandos para criar o banco, as tabelas e os relacionamentos.
+
+ddl.sql
+
+Teste do DDL
+![DDL](dll.png)
+
+
+
+No teste foi executado o arquivo ddl.sql no MySQL para verificar se o banco e as tabelas foram criados corretamente.
+
+DML
+
+O arquivo dml.sql possui os comandos para inserir os dados nas tabelas.
+
+dml.sql
+
+Teste do DML
+![DML](dml.png)
+
+No teste foi executado o arquivo dml.sql no MySQL para verificar se os dados foram inseridos corretamente nas tabelas.
+
+
+
+Ferramentas usadas
+
+MySQL
+
+SQL
+
+Draw.io
+
+GitHub
