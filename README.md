@@ -7,11 +7,11 @@ A ideia do banco é organizar um sistema de atendimento de chamados de TI, onde 
 
 ## MER DER Conceitual
 
-![MER DER Conceitual](image.png)
+![MER DER Conceitual](MER_drawio.png)
 
 ## MER DER Lógico
 
-![MER DER Lógico](imagens/mer_logico.png)
+![MER DER Lógico](MER_lógico.drawio.png)
 
 ## Normalização
 
