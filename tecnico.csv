@@ -1,0 +1,4 @@
+id,nome,email,especialidade,status
+1,Joao Silva,joao@empresa.com,Hardware,ATIVO
+2,Marcos Santos,marcos@empresa.com,Software,ATIVO
+3,Juliana Costa,juliana@empresa.com,Rede,ATIVO

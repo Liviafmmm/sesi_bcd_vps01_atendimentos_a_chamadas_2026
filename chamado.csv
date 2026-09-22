@@ -1,0 +1,4 @@
+id,titulo,descricao,data_abertura,data_fechamento,status,prioridade,id_usuario,id_categoria,id_tecnico
+1,Computador nao liga,Computador nao esta ligando,2026-09-20 08:00:00,2026-09-20 10:00:00,FECHADO,ALTA,1,1,1
+2,Erro no sistema,Sistema apresenta erro,2026-09-20 09:00:00,,ABERTO,ALTA,2,2,2
+3,Internet lenta,Internet esta muito lenta,2026-09-21 10:00:00,,EM ANDAMENTO,MEDIA,3,3,3
