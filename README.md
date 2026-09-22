@@ -79,7 +79,7 @@ Historico
 | id_categoria    | in_          |       |                             |
 
 
-Relacionamentos
+## Relacionamentos
 
 Um usuário pode abrir vários chamados.
 
@@ -106,7 +106,7 @@ historico.csv
 Todos possuem pelo menos 3 registros.
 
 
-DDL
+## DDL
 O arquivo ddl.sql possui os comandos para criar o banco, as tabelas e os relacionamentos.
 
 ddl.sql
@@ -131,12 +131,12 @@ No teste foi executado o arquivo dml.sql no MySQL para verificar se os dados for
 
 
 
-Ferramentas usadas
+## Ferramentas usadas
 
-MySQL
+#MySQL
 
-SQL
+#SQL
 
-Draw.io
+#Draw.io
 
-GitHub
+#GitHub
