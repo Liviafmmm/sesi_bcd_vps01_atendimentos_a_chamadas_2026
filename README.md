@@ -11,7 +11,7 @@ A ideia do banco é organizar um sistema de atendimento de chamados de TI, onde 
 
 ## MER DER Lógico
 
-![MER DER Lógico](MER_lógico.drawio.png)
+![MER DER Lógico](Mer_lógico.drawio.png)
 
 ## Normalização
 
