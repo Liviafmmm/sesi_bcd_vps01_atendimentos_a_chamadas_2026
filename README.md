@@ -173,7 +173,7 @@ describe tecnico;
 describe categoria;
 describe chamado;
 describe historico;
-
+```
 Teste do DDL
 ![DDL](dll.png)
 
