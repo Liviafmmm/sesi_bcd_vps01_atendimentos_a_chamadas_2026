@@ -106,6 +106,7 @@ Todos possuem pelo menos 3 registros.
 O arquivo ddl.sql possui os comandos para criar o banco, as tabelas e os relacionamentos.
 
 ## Script SQL DDL (Desenvolvimanto: Criação do Banco de dados)
+```sql
 drop database if exists atendimento_chamados;
 create database atendimento_chamados;
 
