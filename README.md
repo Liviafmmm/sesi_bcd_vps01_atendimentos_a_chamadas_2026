@@ -98,6 +98,7 @@ Um usuário pode ter vários registros no histórico.
 - [tecnico.csv](./tecnico.csv)
 - [historico.csv](./historico.csv)
 - [usuario.csv](./usuario.csv)
+  
 Todos possuem pelo menos 3 registros.
 
 
