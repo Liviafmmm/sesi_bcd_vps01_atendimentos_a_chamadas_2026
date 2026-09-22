@@ -93,11 +93,11 @@ Um usuário pode ter vários registros no histórico.
 
 
 ## Dados de teste em CSV
-- [cliente.csv](./cliente.csv)
-- [telefone.csv](./telefone.csv)
-- [produto.csv](./produto.csv)
-- [pedido.csv](./pedido.csv)
-- 
+- [cliente.csv](./chamado.csv)
+- [categoria.csv](./categoria.csv)
+- [tecnico.csv](./tecnico.csv)
+- [historico.csv](./historico.csv)
+- [usuario.csv](./usuario.csv)
 Todos possuem pelo menos 3 registros.
 
 
